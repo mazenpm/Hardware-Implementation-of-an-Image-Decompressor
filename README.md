@@ -31,10 +31,15 @@ Reads the RGB pixel values from SRAM and sends them to the VGA interface. Displa
 Tools and Technologies Used:
 
 Verilog HDL for all hardware modules
+
 Quartus II for FPGA synthesis and programming
+
 ModelSim for simulation and debugging
+
 UART protocol for serial data transfer from PC
+
 External SRAM for intermediate storage
+
 Python/C host scripts for sending image data over UART
 
 Key Learning Outcomes:
